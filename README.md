@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/team-boris/redux-effects-test-jasmine.svg?branch=master)](https://travis-ci.org/team-boris/redux-effects-test-jasmine)
+[![NPM Version](https://img.shields.io/npm/v/redux-effects-test-jasmine.svg?style=flat)](https://www.npmjs.com/package/redux-effects-test-jasmine)
 
 # redux-effects-test-jasmine
 
