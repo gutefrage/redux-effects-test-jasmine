@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/team-boris/redux-effects-test-jasmine.svg?branch=master)](https://travis-ci.org/team-boris/redux-effects-test-jasmine)
+
 # redux-effects-test-jasmine
 
 Helper methods to test redux-effect actions with jasmine.
