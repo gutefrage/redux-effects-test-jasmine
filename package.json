@@ -1,6 +1,6 @@
 {
   "name": "redux-effects-test-jasmine",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Jasmine helpers to test redux-effect actions",
   "main": "index.js",
   "scripts": {
