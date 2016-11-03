@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/team-boris/redux-effects-test-jasmine.git"
+    "url": "git+https://github.com/gutefrage/redux-effects-test-jasmine.git"
   },
   "keywords": [
     "redux",
@@ -21,9 +21,9 @@
   "author": "Team Boris",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/team-boris/redux-effects-test-jasmine/issues"
+    "url": "https://github.com/gutefrage/redux-effects-test-jasmine/issues"
   },
-  "homepage": "https://github.com/team-boris/redux-effects-test-jasmine#readme",
+  "homepage": "https://github.com/gutefrage/redux-effects-test-jasmine#readme",
   "dependencies": {
     "lodash": "^4.16.1",
     "redux-effects": "^0.4.3"
